@@ -1,7 +1,7 @@
 # JavaHometask3
 Java Hometask 3 - Concurrency
 
-Below is mentioned the topic, classes and functions written by each team Member:
+Below mentioned are the topics covered by each team member :
 
 Madhukar Devendrappa : TOPIC - Simulate the system which allow to charge simultaneously 1..N vehicles, depending on the available resources.
 
